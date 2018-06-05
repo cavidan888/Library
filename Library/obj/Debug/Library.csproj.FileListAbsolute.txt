@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.exe.config
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.exe
+C:\Users\user\source\repos\Library\Library\bin\Debug\Library.pdb
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.Form1.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.Properties.Resources.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.exe
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.pdb
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.AuthorAdd.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.BookAdd.resources
+C:\Users\user\source\repos\Library\Library\obj\Debug\Library.PublisherAdd.resources
